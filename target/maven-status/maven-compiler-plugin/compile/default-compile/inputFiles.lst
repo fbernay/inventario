@@ -1,0 +1,11 @@
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/business/services/JPAProductManager.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/business/SpringappBusinessConfig.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/web/controllers/PriceIncreaseFormController.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/business/entities/Product.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/business/repositories/ProductRepository.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/web/SpringappWebConfig.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/web/controllers/InventoryController.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/business/services/ProductManager.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/business/services/SimpleProductManager.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/business/services/PriceIncrease.java
+/home/fbernay/Escritorio/utn/inventario/sistema-mantenimiento-inventario/src/main/java/com/companyname/springapp/SpringappWebApplicationInitializer.java
